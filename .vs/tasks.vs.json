@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Reposito Do curso C",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-Reposito Do curso C",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
