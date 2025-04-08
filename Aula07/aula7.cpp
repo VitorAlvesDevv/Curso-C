@@ -1,0 +1,26 @@
+#include <iostream> // adição e subtração
+using namespace std; 
+
+int n1, n2; // Variáveis Globais
+
+
+
+int main()
+{
+    // Operadores Matemáticos: +, -, /, * e %
+
+    int n3, n4; // Variáveis Locais
+    int res;
+
+    n1 = 11;
+    n2 = 3;
+    n3 = 5;
+    n4 = 2;
+
+
+    res = (n1+n2+n3+n4) - 11;
+
+    cout << "Soma de todas as variaveis: " << res << "\n\n" ;
+
+    return 0;
+}
