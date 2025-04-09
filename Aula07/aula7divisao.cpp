@@ -25,4 +25,4 @@ int main()
     cout << "Resto: " << res2 << "\n";
 
     return 0;
-}
+} //
