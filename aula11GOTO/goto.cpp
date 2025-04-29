@@ -42,9 +42,9 @@ int main()
     cout << "\n Digitar outras notas? [s/n]\n";
     cin >> opc;
 
-    if (opc == 's' or opc=='S') {
-        goto inicio;
-    }
+   // if(opc == 's' or opc == 'S') {
+   //     goto inicio;
+    //}
 
     return 0;
 }
